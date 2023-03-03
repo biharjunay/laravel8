@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;font-family: poppins;
+    scroll-behavior: smooth;
+    
+}
+
+.jumbotron {
+    background: url(img/56b7b2bc-aeab-4fe9-bb3b-b97ce6ccef67.jpg);
+    background-position: center center;
+    height: 530px;
+    background-size: cover;
+    padding-top: 9rem;
+    background-attachment: fixed;
+}
+
+p.fw-bold {
+    font-size: 20px;
+    line-height: 25px;
+}
+#about .container .row {
+    align-items: center;
+}
+.card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+span.ds {
+    align-items: center;
+}
+.logo {
+    width: 50px;
+    float: left;
+}
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
